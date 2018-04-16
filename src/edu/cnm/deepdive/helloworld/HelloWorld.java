@@ -10,6 +10,7 @@ package edu.cnm.deepdive.helloworld;
 public class HelloWorld {
 
   /**
+   * Produces output of "Hello World!".
    * @param args
    */
   public static void main(String[] args) {
